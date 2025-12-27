@@ -7,6 +7,9 @@ df = pd.read_csv('vehicles_us.csv')
 # boton_histograma = st.button('Construir histograma')
 # boton_dispersion = st.button('Construir gráfico de dispersión')
 
+# Colocamos titulo a la aplicación
+st.title('Análisis de anuncios de venta de coches')
+
 # crear una casilla de verificación
 build_histograma = st.checkbox('Construir un histograma')
 build_dispersion = st.checkbox('Construir un gráfico de dispersión')

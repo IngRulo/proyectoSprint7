@@ -7,3 +7,6 @@ En este proyecto podemos observar la utilización de 3 librerias principalmente:
 - streamlit: Utilización de un sitio web rápido
 
 Mediante la utilización de dos checks se podrá seleccionar el tipo de gráfico a visualizar
+
+Link de render:
+https://proyectosprint7-e65n.onrender.com/
